@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+img {
+    width: 9.375rem;
+    float: left;
+}
+
+section {
+    max-width: 31.25rem;
+    margin: 0 auto;
+}
+
+.heart {
+    shape-outside: polygon(81.00% 13px, 100.6% 38.34%, 74.64% 76.83%, 50.33% 85px);
+}
+
+.star {
+    shape-outside: polygon(50.33% -7px, 71.72% 25.83%, 104.6% 39%, 82.07% 65.24%, 85.3% 93.5%, 50.33% 85px);
+}
